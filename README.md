@@ -2,6 +2,10 @@
 
 Welcome to the repository.
 
+Smart Building Security and Fire-Protection System is an Arduino-based embedded sensing system integrating
+optical, force, flow, temperature, and humidity sensors to provide intelligent entry security and automatic
+fire detection and protection.
+
 ## Repository Contents
 
 ### 📁 `code/`
