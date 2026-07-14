@@ -28,7 +28,7 @@ Contains the final technical report.
 
 ### 📁 `video/`
 
-Contains project demonstration and presentation videos.
+Contains project demonstration and presentation video.
 
 ## Team Members
 
