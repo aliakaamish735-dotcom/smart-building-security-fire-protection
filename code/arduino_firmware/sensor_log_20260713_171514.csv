@@ -1,0 +1,507 @@
+ity_pct,pad_weight_g,flow_lpm,proximity,fire_stage,wrong_attempts
+Biological Laboratory Monitor - Arduino firmware starting...
+DFPlayer Mini ready.
+TCRT5000 photocell ready on A2 (analog).
+CSV_HEADER,millis_ts,temp_c,humidity_pct,pad_weight_g,flow_lpm,proximity,fire_stage,wrong_attempts
+Fire stage: IDLE
+DATA,5107,27.20,81.60,-0.0,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,10128,27.30,82.00,0.1,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,15147,27.30,82.00,0.3,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,20167,27.30,82.00,0.2,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,25188,27.30,82.10,0.4,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,30206,27.30,82.10,0.3,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,35227,27.30,82.10,0.5,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,40246,27.30,82.30,0.5,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,45264,27.30,82.10,0.5,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,50285,27.30,82.00,0.5,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,55304,27.30,81.60,0.4,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,60324,27.30,81.30,0.4,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,65343,27.30,81.10,0.2,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,70362,27.30,81.10,0.7,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,75382,27.30,81.30,0.3,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,80401,27.30,81.10,0.2,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,85421,27.30,81.00,0.0,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,90439,27.30,81.00,0.2,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,95458,27.30,80.80,0.2,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,100478,27.30,80.80,0.1,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,105498,27.30,80.70,-0.0,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,110517,27.30,80.50,0.1,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,115535,27.30,80.40,-0.1,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,120556,27.30,80.40,0.2,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,125575,27.30,80.50,-0.0,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,130595,27.30,80.80,0.1,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,135614,27.30,80.80,0.1,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,140634,27.30,80.90,0.0,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,145653,27.30,80.90,0.4,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,150670,27.30,80.90,-0.0,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,155687,27.30,80.90,-0.3,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,160705,27.30,80.80,-0.3,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,165724,27.30,80.80,-0.2,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,170741,27.30,80.90,-0.1,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,175761,27.30,80.90,-0.1,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,180779,27.30,80.80,-0.2,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,185798,27.30,80.80,-0.1,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,190816,27.30,80.80,-0.2,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,195835,27.30,80.70,-0.2,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,200853,27.30,80.50,-0.2,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,205873,27.30,80.50,-0.1,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,210890,27.30,80.50,-0.1,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,215909,27.30,80.70,-0.2,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,220926,27.30,80.70,-0.1,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,225945,27.30,80.60,-0.2,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,230964,27.30,80.50,-0.2,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,235981,27.30,80.30,-0.2,0.000,1,IDLE,0
+Proximity + weight pad: person detected, prompting for password.
+Submitting PIN: 1111
+Fire stage: IDLE
+DATA,259020,27.30,80.10,13.3,0.000,1,IDLE,1
+Fire stage: IDLE
+DATA,264020,27.30,80.60,-0.2,0.000,1,IDLE,1
+Fire stage: IDLE
+DATA,269021,27.30,80.80,-0.2,0.000,1,IDLE,1
+Fire stage: IDLE
+DATA,274021,27.30,80.80,-0.3,0.000,1,IDLE,1
+Fire stage: IDLE
+DATA,279020,27.30,80.90,-1.4,0.000,1,IDLE,1
+Proximity + weight pad: person detected, prompting for password.
+Submitting PIN: 1111
+Fire stage: IDLE
+DATA,294210,27.30,80.90,29.8,0.000,1,IDLE,2
+Proximity + weight pad: person detected, prompting for password.
+Submitting PIN: 1111
+Fire stage: IDLE
+DATA,302134,27.30,81.30,32.4,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,307277,27.30,81.50,0.4,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,312296,27.30,81.30,0.8,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,317316,27.30,81.30,-3.0,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,322333,27.30,81.30,-0.9,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,327353,27.30,81.30,-0.3,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,332371,27.30,81.30,-0.1,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,337389,27.30,81.50,-1.0,0.000,1,IDLE,0
+Proximity + weight pad: person detected, prompting for password.
+Submitting PIN: 1234
+Fire stage: IDLE
+DATA,348723,27.30,81.50,67.1,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,353722,27.20,81.70,-0.6,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,358721,27.30,81.30,-0.4,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,363721,27.30,81.10,-0.3,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,368721,27.30,81.00,-0.2,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,373726,27.30,80.90,-0.2,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,378745,27.20,80.90,-0.2,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,383763,27.30,80.50,-0.2,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,388782,27.30,80.40,-0.0,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,393801,27.30,80.30,-0.1,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,398821,27.30,80.30,-0.1,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,403838,27.30,80.30,-0.0,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,408857,27.30,80.50,-0.0,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,413877,27.30,80.40,-0.1,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,418894,27.30,80.30,0.1,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,423913,27.20,80.20,0.0,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,428932,27.30,80.10,0.1,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,433951,27.30,80.10,-0.0,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,438969,27.30,80.00,0.0,0.000,0,IDLE,0
+Fire stage: IDLE
+DATA,443988,27.30,80.00,-0.8,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,449007,27.30,80.10,-1.1,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,454025,27.30,80.10,-1.2,0.000,1,IDLE,0
+Proximity + weight pad: person detected, prompting for password.
+Submitting PIN: 1111
+Fire stage: IDLE
+DATA,466339,27.30,80.30,31.1,0.000,1,IDLE,1
+Fire stage: IDLE
+DATA,471500,27.30,80.50,-9.9,0.000,1,IDLE,1
+Fire stage: IDLE
+DATA,476518,27.30,80.50,-3.2,0.000,1,IDLE,1
+Fire stage: IDLE
+DATA,481538,27.20,80.50,-0.5,0.000,1,IDLE,1
+Fire stage: IDLE
+DATA,486555,27.30,80.50,0.0,0.000,1,IDLE,1
+Proximity + weight pad: person detected, prompting for password.
+Submitting PIN: 1236
+Fire stage: IDLE
+DATA,492331,27.30,80.70,41.2,0.000,1,IDLE,2
+Fire stage: IDLE
+DATA,497330,27.30,80.80,-2.1,0.000,1,IDLE,2
+Proximity + weight pad: person detected, prompting for password.
+Submitting PIN: 11111
+Fire stage: IDLE
+DATA,502942,27.30,80.80,35.3,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,508116,27.30,80.80,-1.4,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,513134,27.30,80.80,-11.1,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,518154,27.30,80.90,-4.1,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,523171,27.30,81.00,-3.2,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,528190,27.30,81.00,-2.5,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,533209,27.30,81.10,-11.8,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,538226,27.30,81.00,-5.9,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,543245,27.30,81.00,-4.7,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,548264,27.30,81.00,-4.1,0.000,1,IDLE,0
+Proximity + weight pad: person detected, prompting for password.
+Submitting PIN: 1234
+Fire stage: IDLE
+DATA,564671,27.30,81.10,11.0,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,569830,27.30,81.30,-3.9,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,574849,27.30,81.30,-3.7,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,579867,27.30,81.00,-3.5,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,584886,27.30,81.00,-3.4,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,589903,27.30,81.00,-3.3,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,594921,27.30,81.10,-3.3,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,599941,27.30,81.10,-3.3,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,604958,27.30,81.10,-3.3,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,609978,27.30,81.30,-3.2,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,614995,27.30,81.10,-3.2,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,620015,27.30,81.00,-3.2,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,625033,27.30,81.00,-3.2,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,630050,27.30,81.10,-3.0,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,635070,27.40,81.30,-3.0,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,640088,27.30,81.30,-2.9,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,645105,27.40,81.30,-3.0,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,650124,27.30,81.30,-2.9,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,655141,27.40,81.00,-2.9,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,660161,27.40,81.10,-2.9,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,665180,27.30,81.00,-2.8,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,670196,27.40,81.00,-2.9,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,675214,27.30,81.00,-2.7,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,680231,27.40,80.90,-2.8,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,685249,27.40,80.90,-2.7,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,690268,27.40,80.80,-2.7,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,695286,27.40,80.90,-2.7,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,700303,27.40,80.80,-2.5,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,705320,27.40,80.80,-2.6,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,710338,27.40,80.50,-2.6,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,715357,27.40,80.60,-2.6,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,720373,27.40,80.50,-2.5,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,725392,27.40,80.70,-2.5,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,730408,27.40,80.60,-2.5,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,735427,27.40,80.50,-2.4,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,740444,27.40,80.60,-2.5,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,745461,27.40,80.80,-2.5,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,750478,27.40,80.80,-2.5,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,755494,27.40,81.00,-2.6,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,760513,27.40,81.00,-2.5,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,765530,27.40,81.00,-2.5,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,770548,27.40,81.00,-2.5,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,775565,27.40,81.00,-2.4,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,780581,27.40,81.00,-2.4,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,785600,27.40,81.00,-2.4,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,790617,27.40,81.00,-2.3,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,795635,27.40,81.10,-2.3,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,800652,27.40,81.10,-2.3,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,805668,27.40,81.00,-2.3,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,810687,27.40,81.00,-2.3,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,815704,27.50,81.90,-2.3,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,820720,27.70,83.00,-2.4,0.000,1,IDLE,0
+Humidity above fan threshold - fan ON.
+FIRE DETECTED - starting suppression sequence.
+Fire stage: FIRE_DETECTED
+DATA,825795,28.10,84.30,-2.5,0.000,1,FIRE_DETECTED,0
+Humidity back to normal - fan OFF.
+Fire stage: PUMPING
+DATA,830752,28.60,83.80,-1.9,0.000,1,PUMPING,0
+Fire stage: PUMPING
+DATA,835763,29.00,72.20,-1.8,69.787,1,PUMPING,0
+Fire stage: PUMPING
+DATA,841183,29.10,71.30,-70.5,67.227,1,PUMPING,0
+WARNING: DHT11 read failed this cycle, skipping fire-sequence step.
+Fire stage: PUMPING
+DATA,846615,-1.00,-1.00,-136.3,71.493,1,PUMPING,0
+WARNING: DHT11 read failed this cycle, skipping fire-sequence step.
+Fire stage: PUMPING
+DATA,851615,-1.00,-1.00,-1.7,66.053,1,PUMPING,0
+Fire stage: PUMPING
+DATA,856585,29.10,69.90,-1.9,65.733,1,PUMPING,0
+WARNING: DHT11 read failed this cycle, skipping fire-sequence step.
+Fire stage: PUMPING
+DATA,861617,-1.00,-1.00,-1.7,65.333,1,PUMPING,0
+Fire stage: PUMPING
+DATA,866584,29.00,69.10,-1.8,63.227,1,PUMPING,0
+WARNING: DHT11 read failed this cycle, skipping fire-sequence step.
+Fire stage: PUMPING
+DATA,871616,-1.00,-1.00,-1.9,66.933,1,PUMPING,0
+Fire stage: PUMPING
+DATA,876584,28.80,68.70,-135.1,72.027,1,PUMPING,0
+WARNING: DHT11 read failed this cycle, skipping fire-sequence step.
+Fire stage: PUMPING
+DATA,881616,-1.00,-1.00,-2.2,74.240,1,PUMPING,0
+WARNING: DHT11 read failed this cycle, skipping fire-sequence step.
+Fire stage: PUMPING
+DATA,886616,-1.00,-1.00,-2.1,73.467,1,PUMPING,0
+WARNING: DHT11 read failed this cycle, skipping fire-sequence step.
+Fire stage: PUMPING
+DATA,891633,-1.00,-1.00,-2.0,69.200,1,PUMPING,0
+WARNING: DHT11 read failed this cycle, skipping fire-sequence step.
+Fire stage: PUMPING
+DATA,896633,-1.00,-1.00,-2.0,73.200,1,PUMPING,0
+WARNING: DHT11 read failed this cycle, skipping fire-sequence step.
+Fire stage: PUMPING
+DATA,901634,-1.00,-1.00,-2.0,96.747,1,PUMPING,0
+WARNING: DHT11 read failed this cycle, skipping fire-sequence step.
+Fire stage: PUMPING
+DATA,906633,-1.00,-1.00,2.5,261.360,1,PUMPING,0
+Pump run complete (55s) - switching to humidifier.
+Fire stage: HUMIDIFYING
+DATA,911619,28.40,69.00,-1.7,394.720,1,HUMIDIFYING,0
+Fire stage: HUMIDIFYING
+DATA,916601,28.40,70.90,-1.6,0.187,1,HUMIDIFYING,0
+Humidifier run complete (10s) - sequence stable.
+Fire stage: STABLE
+DATA,921617,28.40,75.10,-1.6,0.000,1,STABLE,0
+Fire stage: IDLE
+DATA,926602,28.40,75.30,-1.3,0.000,1,IDLE,0
+FIRE DETECTED - starting suppression sequence.
+Fire stage: FIRE_DETECTED
+DATA,931618,28.40,76.30,-1.5,0.000,1,FIRE_DETECTED,0
+Fire stage: PUMPING
+DATA,936603,28.30,76.60,-2.2,0.000,1,PUMPING,0
+Fire stage: PUMPING
+DATA,941602,28.20,70.40,-1.4,169.920,1,PUMPING,0
+Fire stage: PUMPING
+DATA,946603,28.20,70.00,-1.7,496.293,1,PUMPING,0
+Fire stage: PUMPING
+DATA,951603,28.10,70.30,4280.8,278.347,1,PUMPING,0
+Fire stage: PUMPING
+DATA,956603,28.10,70.00,2001.3,187.387,1,PUMPING,0
+Fire stage: PUMPING
+DATA,962184,28.00,70.00,-69.7,157.733,1,PUMPING,0
+WARNING: DHT11 read failed this cycle, skipping fire-sequence step.
+Fire stage: PUMPING
+DATA,967358,-1.00,-1.00,-1.7,112.373,1,PUMPING,0
+Fire stage: PUMPING
+DATA,972325,27.90,70.10,-1.1,105.120,1,PUMPING,0
+Fire stage: PUMPING
+DATA,977326,27.90,70.10,-1.7,100.880,1,PUMPING,0
+Fire stage: PUMPING
+DATA,982326,27.80,70.20,-0.3,97.040,1,PUMPING,0
+Fire stage: PUMPING
+DATA,987326,27.80,70.40,-1.9,90.000,1,PUMPING,0
+WARNING: DHT11 read failed this cycle, skipping fire-sequence step.
+Fire stage: PUMPING
+DATA,992736,-1.00,-1.00,-71.9,96.720,1,PUMPING,0
+WARNING: DHT11 read failed this cycle, skipping fire-sequence step.
+Fire stage: PUMPING
+DATA,997836,-1.00,-1.00,-2.5,92.880,1,PUMPING,0
+Pump run complete (55s) - switching to humidifier.
+Fire stage: HUMIDIFYING
+DATA,1002823,27.70,70.40,-1.7,88.160,1,HUMIDIFYING,0
+Fire stage: HUMIDIFYING
+DATA,1007805,27.70,72.00,-1.9,0.107,1,HUMIDIFYING,0
+Humidifier run complete (10s) - sequence stable.
+Fire stage: STABLE
+DATA,1012823,27.80,76.90,-1.8,0.000,1,STABLE,0
+Fire stage: IDLE
+DATA,1017824,27.80,77.00,-2.2,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,1022841,27.80,78.20,-2.2,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,1027859,27.80,78.70,-2.3,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,1032878,27.80,79.00,-2.0,0.000,1,IDLE,0
+Fire stage: IDLE
+DATA,1037896,27.90,80.60,-2.1,0.000,1,IDLE,0
+Humidity above fan threshold - fan ON.
+FIRE DETECTED - starting suppression sequence.
+Fire stage: FIRE_DETECTED
+DATA,1042970,28.10,84.20,-1.9,0.000,1,FIRE_DETECTED,0
+Humidity back to normal - fan OFF.
+Fire stage: PUMPING
+DATA,1047928,28.40,86.50,-1.6,0.000,1,PUMPING,0
+WARNING: DHT11 read failed this cycle, skipping fire-sequence step.
+Fire stage: PUMPING
+DATA,1052972,-1.00,-1.00,-1.5,86.267,1,PUMPING,0
+Humidity above fan threshold - fan ON.
+Fire stage: PUMPING
+DATA,1057940,7.10,223.00,-1.6,83.840,1,PUMPING,0
+WARNING: DHT11 read failed this cycle, skipping fire-sequence step.
+Fire stage: PUMPING
+DATA,1062969,-1.00,-1.00,-1.6,80.267,1,PUMPING,0
+WARNING: DHT11 read failed this cycle, skipping fire-sequence step.
+Fire stage: PUMPING
+DATA,1068476,-1.00,-1.00,344.2,88.053,1,PUMPING,0
+WARNING: DHT11 read failed this cycle, skipping fire-sequence step.
+Fire stage: PUMPING
+DATA,1073475,-1.00,-1.00,-1.6,80.880,1,PUMPING,0
+Humidity back to normal - fan OFF.
+Fire stage: PUMPING
+DATA,1078444,28.20,72.80,-1.6,78.773,1,PUMPING,0
+Fire stage: PUMPING
+DATA,1083444,28.20,72.50,-1.1,81.333,1,PUMPING,0
+Fire stage: PUMPING
+DATA,1088444,28.10,72.30,-1.6,83.067,1,PUMPING,0
+Fire stage: PUMPING
+DATA,1093443,28.10,71.80,4.2,81.787,1,PUMPING,0
+Fire stage: PUMPING
+DATA,1098443,28.00,71.60,-2.4,82.187,1,PUMPING,0
+Pump run complete (55s) - switching to humidifier.
+Fire stage: HUMIDIFYING
+DATA,1103461,27.90,71.50,-2.3,80.907,1,HUMIDIFYING,0
+Fire stage: HUMIDIFYING
+DATA,1108444,27.90,73.30,-2.0,0.107,1,HUMIDIFYING,0
+Humidifier run complete (10s) - sequence stable.
+Fire stage: STABLE
+DATA,1113458,28.00,78.70,-2.1,0.000,1,STABLE,0
+Fire stage: IDLE
+DATA,1118443,28.00,79.80,-2.8,0.000,1,IDLE,0
+FIRE DETECTED - starting suppression sequence.
+Fire stage: FIRE_DETECTED
+DATA,1123474,28.10,82.20,-2.9,0.000,1,FIRE_DETECTED,0
+Fire stage: PUMPING
+DATA,1128474,28.00,83.00,-3.0,0.000,1,PUMPING,0
+WARNING: DHT11 read failed this cycle, skipping fire-sequence step.
+Fire stage: PUMPING
+DATA,1133517,-1.00,-1.00,-2.6,69.307,1,PUMPING,0
+WARNING: DHT11 read failed this cycle, skipping fire-sequence step.
+Fire stage: PUMPING
+DATA,1138518,-1.00,-1.00,-2.0,70.773,1,PUMPING,0
+WARNING: DHT11 read failed this cycle, skipping fire-sequence step.
+Fire stage: PUMPING
+DATA,1143518,-1.00,-1.00,1.5,78.107,1,PUMPING,0
+WARNING: DHT11 read failed this cycle, skipping fire-sequence step.
+Fire stage: PUMPING
+DATA,1148517,-1.00,-1.00,-0.3,78.080,1,PUMPING,0
+WARNING: DHT11 read failed this cycle, skipping fire-sequence step.
+Fire stage: PUMPING
+DATA,1153517,-1.00,-1.00,-1.7,79.520,1,PUMPING,0
+WARNING: DHT11 read failed this cycle, skipping fire-sequence step.
+Fire stage: PUMPING
+DATA,1158517,-1.00,-1.00,-1.7,74.533,1,PUMPING,0
+WARNING: DHT11 read failed this cycle, skipping fire-sequence step.
+Fire stage: PUMPING
+DATA,1163517,-1.00,-1.00,-5.7,74.613,1,PUMPING,0
+WARNING: DHT11 read failed this cycle, skipping fire-sequence step.
+Fire stage: PUMPING
+DATA,1168518,-1.00,-1.00,-2.0,79.920,1,PUMPING,0
+WARNING: DHT11 read failed this cycle, skipping fire-sequence step.
+Fire stage: PUMPING
+DATA,1173517,-1.00,-1.00,-2.2,80.747,1,PUMPING,0
